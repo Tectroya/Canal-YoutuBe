@@ -1,5 +1,5 @@
 # Canal-YoutuBe
 
-Repositorio de prueba para Github
+## Repositorio de prueba para Github
 
-Aprendiendo a utilizar Git y Github a través del canal de YouTube de Tectroya
+Aprendiendo a utilizar Git y Github a través del canal de YouTube de Tectroya.

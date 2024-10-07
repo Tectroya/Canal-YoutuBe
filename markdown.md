@@ -24,5 +24,5 @@ Texto no citado
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 
-[!WARNING]
+> [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
